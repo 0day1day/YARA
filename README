@@ -7,7 +7,7 @@ this library installed on your system in order to build YARA succesfully. The PC
 library is present on many Linux distributions, in systems using APT for package
 management it can be installed with:
 
-$ apt-get install pcre
+$ sudo apt-get install libpcre++-dev
 
 
 
